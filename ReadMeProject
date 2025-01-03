@@ -1,0 +1,50 @@
+A comprehensive repository documenting the alignment of IT policies with NIST SP 800-171 standards, focusing on safeguarding Controlled Unclassified Information (CUI). Includes detailed findings, recommendations, and implementation steps for improving compliance.
+Contents:
+Executive Summary:
+Objective: Assess IT policy compliance with NIST SP 800-171.
+Importance: Enhances data security, builds trust, ensures regulatory compliance, and supports proactive risk management.
+Audit Scope:
+Policies Reviewed:
+Patch Management Policy
+Encryption Standard
+Configuration and Baseline Standard
+Configuration Management Plan
+System Services and Asset Lifecycle Management Plan
+Key Findings:
+Configuration and Baseline Standard:
+Strengths: Covers multiple platforms and aligns with NIST SP 800-171 sections 3.4.1[a]-[c].
+Gaps: Lacks enforcement documentation, changelog procedures, and training programs.
+Configuration Management Plan (CMP):
+Strengths: Robust asset inventory, change management, and vulnerability management.
+Gaps: Needs improved accessibility and real-time tracking systems.
+System Services and Asset Lifecycle Management Plan:
+Strengths: Comprehensive lifecycle management from acquisition to disposal.
+Gaps: Requires detailed enforcement methods for asset disposal and compliance monitoring.
+Patch Management Policy:
+Strengths: Timely patch deployment (within 30 days) and role clarity.
+Gaps: Missing testing procedures and formal monitoring mechanisms.
+Encryption Standard Policy:
+Strengths: Well-defined PKI/KMS solutions and segregation of roles.
+Gaps: Lacks exception handling procedures and role-specific accountability.
+Recommendations:
+Increase review frequency (e.g., bi-annual reviews for baseline configurations).
+Implement real-time monitoring tools for configuration changes.
+Develop training modules for baseline configurations and patch management.
+Automate asset inventory updates and integrate advanced vulnerability assessment tools.
+Action Plans:
+Define enforcement protocols for configuration standards.
+Establish metrics to measure the effectiveness of lifecycle management practices.
+Create systematic review processes for encryption standards.
+Checklists for Compliance:
+Detailed audit checklists covering documentation, roles, responsibilities, compliance monitoring, patch deployment timelines, etc.
+Supporting Documentation:
+Audit report summary.
+Templates for policy updates (e.g., Patch Management Policy, Configuration Standards).
+Tools & Resources:
+Automated tools for inventory management and monitoring compliance.
+Visual aids like flowcharts for process illustration.
+Training Materials:
+Hands-on scenarios for incident response drills.
+Awareness programs on encryption standards and patch management.
+Compliance Alignment:
+Ensures adherence to NIST SP 800-171 standards to protect CUI in non-federal systems.
